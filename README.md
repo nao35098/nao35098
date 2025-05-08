@@ -16,16 +16,14 @@
         <br>
         <p>
             <strong>
-                Colegio Cientifico Costarricense Sede San Pedro, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+              ¡Hola! Mi nombre es Naomi y te doy la bienvenida a mi perfil de GitHub.
+Soy estudiante del Colegio Científico Costarricense, sede San Pedro, y actualmente curso mi último año de secundaria. Me apasionan las ciencias, las matemáticas y especialmente la Biología. Gracias por visitar mi espacio, ¡espero que encuentres algo interesante por aquí!
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+            <li>🌱 <b>Aprendiendo cosas nuevas</b>: Biologia, Quimica, Fisica Matematicas.</li>
+            <li>🎯 <b>IMejor deporte</b>: Natacion⭐️.</li>
+            <li>🤔 <b>Estudiante proxima de</b>: Microbiologia</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
